@@ -1,3 +1,4 @@
+
 #include "ppm_measurement.h"
 
 #define PPM_MIN_PERIODS_FOR_VALID_RESULT   128u
